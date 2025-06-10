@@ -7,6 +7,13 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Core User Flow](getting-started/publish-your-docs.md)
 
+## Core Concepts
+
+* [Liquidity Pools](core-concepts/liquidity-pools.md)
+* [Impermanent Loss](core-concepts/impermanent-loss.md)
+* [Hedging Strategies](core-concepts/hedging-strategies.md)
+* [Delta-Neutral Liquidity Provision](core-concepts/delta-neutral-liquidity-provision.md)
+
 ## Basics
 
 * [Editor](basics/editor.md)
@@ -15,10 +22,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-## Core Concepts
-
-* [Liquidity Pools](core-concepts/liquidity-pools.md)
-* [Impermanent Loss](core-concepts/impermanent-loss.md)
-* [Hedging Strategies](core-concepts/hedging-strategies.md)
-* [Delta-Neutral Liquidity Provision](core-concepts/delta-neutral-liquidity-provision.md)
