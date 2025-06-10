@@ -1,3 +1,7 @@
+---
+icon: flask-round-potion
+---
+
 # Delta-Neutral Liquidity Provision
 
 Now that we've covered hedging both the upside and downside, we can combine them to create a delta-neutral strategy.
